@@ -35,7 +35,7 @@ A feature-rich Discord music bot built with Discord.js, Riffy, and Lavalink. Thi
 ## Screenshots
 
 ### Now Playing
-![Now Playing](https://media.discordapp.net/attachments/1363985645172691076/1386087118681538681/image.png?ex=68586db9&is=68571c39&hm=2b529203ec846e2206aecb4ddaef407dd0b79cbd657279dd6314f62233dd551e&=&format=webp&quality=lossless)
+![Now Playing](https://media.discordapp.net/attachments/1363985645172691076/1386087855620751400/image.png?ex=68586e69&is=68571ce9&hm=0678ffb24803b06f60fd2acdac7d951076a1497df80849febf0ad41e88278480&=&format=webp&quality=lossless)
 
 ### Queue List
 ![Help Menu](https://i.imgur.com/n7uBEvU.png)
