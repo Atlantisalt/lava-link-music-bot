@@ -128,21 +128,6 @@ npm start
 ## Support
 
 If you encounter any issues or have questions, please:
-1. Check the [Issues](https://github.com/friday2su/music-bot/issues) page
-2. Join our [Discord Server](https://discord.gg/EWr3GgP6fe)
-3. Create a new issue if needed
+1. Check the [212 community](https://discord.gg/jmuVEk7D) server
+3. Create a ticket if u need
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Credits
-
-- [Discord.js](https://discord.js.org/)
-- [Riffy](https://github.com/riffy-team/riffy)
-- [Lavalink](https://github.com/freyacodes/Lavalink)
-- [Spotify API](https://developer.spotify.com/)
