@@ -38,10 +38,12 @@ A feature-rich Discord music bot built with Discord.js, Riffy, and Lavalink. Thi
 ![Now Playing](https://media.discordapp.net/attachments/1363985645172691076/1386087855620751400/image.png?ex=68586e69&is=68571ce9&hm=0678ffb24803b06f60fd2acdac7d951076a1497df80849febf0ad41e88278480&=&format=webp&quality=lossless)
 
 ### Queue List
-![Help Menu](https://i.imgur.com/n7uBEvU.png)
+![Help Menu](https://media.discordapp.net/attachments/1363985645172691076/1386088498221547695/image.png?ex=68586f02&is=68571d82&hm=4d71987ee2e0651c426da048490fd8d6a03b087061dab415b85a53d676f07e6f&=&format=webp&quality=lossless)
 
 ### Player Status
-![Player Status](https://i.imgur.com/0JhhPo3.png)
+![Player Status](https://media.discordapp.net/attachments/1363985645172691076/1386090196444909720/image.png?ex=68587097&is=68571f17&hm=8effd6d5ea69f940d21e5366beedc14ab5018de68eb9011bcdbac7c57b9166e1&=&format=webp&quality=lossless)
+)
+)
 
 ## Prerequisites
 
